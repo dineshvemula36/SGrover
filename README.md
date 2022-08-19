@@ -1,4 +1,5 @@
-# SGrover   Grover's quantum search algorithm is one of the well-known applications of quantum computing, enabling quantum computers to perform a database search (unsorted array) 
+# SGrover  A Scalable 5,6-Qubit Grover's Quantum Search Algorithm
+  Grover's quantum search algorithm is one of the well-known applications of quantum computing, enabling quantum computers to perform a database search (unsorted array) 
 and quadratically outperform their classical counterparts in terms of time. Given the restricted access to database search for an oracle model (black-box), 
 researchers have demonstrated various implementations of Grover's circuit for two to four qubits on various platforms. However, larger search spaces have not yet been
 explored. This is because every time you want to exaplore a large search space you have to design a new circuit. All these circuits vary from each other.  
