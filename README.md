@@ -7,6 +7,6 @@ In this work, we find a common design pattern for ease of building an Oracle for
 quantum circuits using subroutines is also illustrated by the opportunity for large-scale implementation of quantum algorithms in the future.
 
 
-Here I put a few circuits that make it easier to tackle the this problem. The idea of formulating it in a way that is computable by a IBM quantum computer and is based on the work of 
-Dr. Dinesh Reddy Vemula  et al. and their paper:  https://arxiv.org/abs/2205.00117
+Here I put a few circuits that make it easier to tackle the this problem. The idea of formulating it in a way that is computable by a IBM quantum computer and is based on our work of 
+Dr. Dinesh Reddy Vemula  et al. and the paper:  https://arxiv.org/abs/2205.00117
 
